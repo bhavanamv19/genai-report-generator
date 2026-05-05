@@ -102,16 +102,14 @@ Upload CSV/Excel → Auto Analysis (Pandas) → AI Insights (Groq + LLaMA 3.3) �
 
 ---
 
-## 🖥️ Screenshots
 
-> Add screenshots of your app here after deployment
 
 ---
 
 ## 🙋‍♀️ Author
 
 **Bhavana M V**
-- 📧 [Email]
+- 📧 [- 📧 [bhavanamv19@gmail.com](mailto:bhavanamv19@gmail.com)]
 - 💼 [LinkedIn](https://linkedin.com/in/bhavanamv19)
 - 🐙 [GitHub](https://github.com/bhavanamv19)
 
