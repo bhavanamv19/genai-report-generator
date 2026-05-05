@@ -3,8 +3,7 @@ from groq import Groq
 
 def generate_insights(analysis: dict, business_context: str = "Sales") -> str:
 
-    client = Groq(api_key="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")
-
+    client = Groq(api_key="YOUR_GROQ_API_KEY")
     prompt = (
         f"You are a senior business data analyst.\n"
         f"Analyze the following dataset summary and generate a professional business report.\n\n"
